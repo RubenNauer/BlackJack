@@ -13,7 +13,7 @@
 <body>
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
-            <h1 class="display-4">Blackjack</h1>
+            <h1 class="display-4">BlackJack</h1>
             <p class="lead">Play Blackjack against the computer.</p>
         </div>
     </div>
